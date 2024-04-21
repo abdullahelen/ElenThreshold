@@ -5,9 +5,11 @@ This study presents a novel and effective approach to global thresholding method
 
 **Main paper:**
 
-Elen, A. & Dönmez, E. (2024). Histogram-based global thresholding method for image binarization, Optik, vol. 306, pp. 1-20. DOI: https://doi.org/10.1016/j.ijleo.2024.171814
+Elen, A. & Dönmez, E. (2024). Histogram-based global thresholding method for image binarization, Optik, vol. 306, pp. 1-20. https://doi.org/10.1016/j.ijleo.2024.171814
+
 
 **Contact:**
+
 Department of Software Engineering, Faculty of Engineering and Natural Sciences, Bandirma Onyedi Eylul University, Balikesir / TURKIYE.
 - Assoc. Prof. Dr. Abdullah Elen (aelen@bandirma.edu.tr)
 - Assoc. Prof. Dr. Emrah Dönmez (emrahdonmez@bandirma.edu.tr)
