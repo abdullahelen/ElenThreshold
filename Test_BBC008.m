@@ -11,6 +11,9 @@
 %
 % Visit for more information:
 % https://bbbc.broadinstitute.org/BBBC008
+%
+% Visit GitHub link below for test images
+% https://github.com/abdullahelen/ElenThreshold
 % -------------------------------------------------------------------------
 
 clc;
