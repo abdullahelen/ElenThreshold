@@ -1,4 +1,4 @@
-# Elen's Thresholding [![View Standardized Variable Distances (SVD) on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/XXX)
+# Elen's Thresholding [![View ElenThreshold on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/164151)
 **A histogram-based global thresholding method for image binarization**
 
 This study presents a novel and effective approach to global thresholding method of grayscale images. In the proposed method, alpha (α) and beta (β) regions are determined using the mean and standard deviation values of an image histogram. The optimum threshold value is obtained by calculating the average of gray-scale values of the α and β regions.
