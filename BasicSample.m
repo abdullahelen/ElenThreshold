@@ -2,6 +2,9 @@
 % Elen, A. & Dönmez, E., Histogram-based global thresholding method for
 % image binarization, Optik, vol. 306, pp. 1-20 (2024).
 % https://doi.org/10.1016/j.ijleo.2024.171814
+%
+% Visit GitHub link below for test images
+% https://github.com/abdullahelen/ElenThreshold
 % -------------------------------------------------------------------------
 
 clc;
